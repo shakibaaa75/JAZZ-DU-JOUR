@@ -346,7 +346,7 @@ footer p:first-child { font-family: var(--serif); letter-spacing: 0.14em; font-s
   .nav nav .nav-home, .nav nav .long { display: none; }
   .nav nav a.nav-cta { padding: 6px 14px; }
 
-  .hero { min-height: 60vh; min-height: 60svh; padding: 84px 6vw 56px; }
+  .hero { min-height: 75vh; min-height: 75svh; padding: 84px 6vw 56px; }
   .hero::before { background-position: center, center 30%; background-size: cover, cover; }
   .hero-inner { padding: 0; }
   .eyebrow { font-size: 0.68rem; letter-spacing: 0.14em; max-width: 290px; margin-bottom: 18px; }
